@@ -9,7 +9,11 @@
 - **Andmebaasid:** PostgreSQL, Supabase  
 - **Programmeerimine:** Python (pandas, plotly)  
 - **Visualiseerimine:** Power BI / Streamlit  
-- **Versioonihaldus:** Git, GitHub  
+- **Versioonihaldus:** Git, GitHub
+- 
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📂 Projektid
 
